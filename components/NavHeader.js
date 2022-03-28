@@ -200,7 +200,8 @@ function NavHeader() {
                       marginRight: 10,
                       fontSize: '0.5rem',
                       padding: 10,
-                      border: '1px solid #fff'
+                      // border: '1px solid #fff',
+                      backgroundColor: colors.orange
                     }}
                   >
                     {'contact us'.toUpperCase()}
